@@ -1,0 +1,9 @@
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\bin\Debug\netstandard2.0\Crud.Application.deps.json
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\bin\Debug\netstandard2.0\Crud.Application.dll
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\bin\Debug\netstandard2.0\Crud.Application.pdb
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\obj\Debug\netstandard2.0\Crud.Application.csprojAssemblyReference.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\obj\Debug\netstandard2.0\Crud.Application.csproj.CoreCompileInputs.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\obj\Debug\netstandard2.0\Crud.Application.AssemblyInfoInputs.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\obj\Debug\netstandard2.0\Crud.Application.AssemblyInfo.cs
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\obj\Debug\netstandard2.0\Crud.Application.dll
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Application\obj\Debug\netstandard2.0\Crud.Application.pdb

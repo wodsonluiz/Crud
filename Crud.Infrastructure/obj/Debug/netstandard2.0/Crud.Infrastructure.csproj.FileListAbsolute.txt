@@ -1,0 +1,9 @@
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\bin\Debug\netstandard2.0\Crud.Infrastructure.deps.json
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\bin\Debug\netstandard2.0\Crud.Infrastructure.dll
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\bin\Debug\netstandard2.0\Crud.Infrastructure.pdb
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\obj\Debug\netstandard2.0\Crud.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\obj\Debug\netstandard2.0\Crud.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\obj\Debug\netstandard2.0\Crud.Infrastructure.AssemblyInfo.cs
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\obj\Debug\netstandard2.0\Crud.Infrastructure.dll
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\obj\Debug\netstandard2.0\Crud.Infrastructure.pdb
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Infrastructure\obj\Debug\netstandard2.0\Crud.Infrastructure.csprojAssemblyReference.cache

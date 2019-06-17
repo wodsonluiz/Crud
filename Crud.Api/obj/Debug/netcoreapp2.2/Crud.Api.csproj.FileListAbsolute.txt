@@ -1,0 +1,17 @@
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\bin\Debug\netcoreapp2.2\Crud.Api.deps.json
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\bin\Debug\netcoreapp2.2\Crud.Api.runtimeconfig.json
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\bin\Debug\netcoreapp2.2\Crud.Api.runtimeconfig.dev.json
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\bin\Debug\netcoreapp2.2\Crud.Api.dll
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\bin\Debug\netcoreapp2.2\Crud.Api.pdb
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.csprojAssemblyReference.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.csproj.CoreCompileInputs.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.RazorAssemblyInfo.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.RazorAssemblyInfo.cs
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.AssemblyInfoInputs.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.AssemblyInfo.cs
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.RazorTargetAssemblyInfo.cache
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.dll
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.pdb
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\bin\Debug\netcoreapp2.2\Crud.Application.dll
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\bin\Debug\netcoreapp2.2\Crud.Application.pdb
+C:\Users\wcfeitosa\Desktop\Crud\Crud.Api\obj\Debug\netcoreapp2.2\Crud.Api.csproj.CopyComplete
